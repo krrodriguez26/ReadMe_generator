@@ -64,11 +64,20 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
+    writeToFile(fileName, data, err => {
+        if (err) {
+         throw err;
+        }
+    })
 }
 
 // function to initialize program
 function init() {
-
+  prompt (questions).then(answers =>   {
+   const response = generateMarkdown(answers);
+   console.log(answers);
+   writeToFile("README.md, response");
+  })
 }
 
 // function call to initialize program
