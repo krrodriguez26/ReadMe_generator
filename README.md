@@ -32,7 +32,7 @@ yes
 ## Questions
 Contact Info:
 
-* [Github:](krrodriguez26)
-* [Email:](katrrodriguez26@gmail.com)
+* Github: krrodriguez26
+* Email: katrrodriguez26@gmail.com
 
  
