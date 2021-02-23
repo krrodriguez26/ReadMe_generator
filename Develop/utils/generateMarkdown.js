@@ -5,7 +5,7 @@ function generateMarkdown(data) {
 ## Table of Contents
 * [Description] (#description)
 * [Installation] (#installation)
-*  Usage] (#usage)
+* [Usage] (#usage)
 * [License] (#license)
 * [Contributors] (#contributors)
 * [Test] (#test)
@@ -34,7 +34,6 @@ Contact Info:
 
 Github: [${data.Username}] (https://github.com/krrodriguez26)
 Email: [${data.Email}] (https://github.com/krrodriguez26)
-`;
-}
+`;}
 
 module.exports = generateMarkdown;
