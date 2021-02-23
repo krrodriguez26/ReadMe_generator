@@ -32,6 +32,7 @@ yes
 ## Questions
 Contact Info:
 
-Github: [4] (https://github.com/krrodriguez26)
-Email: [4] (https://github.com/krrodriguez26)
+* [Github:] (https://github.com/krrodriguez26)
+* [Email:] (https://github.com/krrodriguez26)
 
+ 
