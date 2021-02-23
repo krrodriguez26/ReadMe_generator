@@ -1,5 +1,11 @@
 const Choices = require("inquirer/lib/objects/choices");
 
+const writeFile = require("fs");
+const  inquirer = require('inquirer');
+const  generateMarkdown = require("./utils/generateMarkdown.js");
+const path = require("path");
+
+
 // array of questions for user
 const questions = [
 
@@ -63,22 +69,19 @@ const questions = [
 ];
 
 // function to write README file
-function writeToFile(fileName, data) {
-    writeToFile(fileName, data, err => {
-        if (err) {
-         throw err;
-        }
-    })
-}
+function readmeWriter(fileName, data) {
+    writeFile.writeFileSync(path.join(process.cwd(), fileName),data 
+    )}
 
 // function to initialize program
 function init() {
-  prompt (questions).then(answers =>   {
+  inquirer.prompt(questions).then((answers) =>  {
    const response = generateMarkdown(answers);
    console.log(answers);
-   writeToFile("README.md, response");
+   readmeWriter("README.md", response);
   })
 }
 
 // function call to initialize program
 init();
+ 
