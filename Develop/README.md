@@ -1,33 +1,34 @@
 # ReadMe_generator
   
 ## Table of Contents
-Description
-Installation
-Usage
-License
-Contributors
-Test
-Questions
+*Description
+*Installation
+*Usage
+*License
+*Contributors
+*Test
+*Questions
 
-##Description
+## Description
+
 3
 
-##Installation
+## Installation
 3
 
-##Usage
+## Usage
 3
 
-##License
+## License
 MIT
 
-##Contributors
+## Contributors
 no
 
-##Test
+## Test
 yes
 
-##Questions
+## Questions
 Contact Info:
 
 Github: [4] (https://github.com/krrodriguez26)
