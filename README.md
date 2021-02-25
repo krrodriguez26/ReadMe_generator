@@ -26,8 +26,8 @@ None
 No
 
 ## Test
-Run test
-Test link: https://youtu.be/vWQT31ILXuA 
+* Run test
+* Test link: https://youtu.be/vWQT31ILXuA 
 
 ## Questions
 Contact Info:
