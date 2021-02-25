@@ -11,23 +11,23 @@
 * [Questions](#questions)
 
 ## Description
-
-3
+Create a command line application that dynamically generates a README.md from a user`s input.
 
 ## Installation
-3
+Clone repo from Github:https://github.com/krrodriguez26/ReadMe_generator
 
 ## Usage
-3
+Must run Node.js and install json packages.
 
 ## License
-MIT
+None
 
 ## Contributors
-no
+No
 
 ## Test
-yes
+Run test
+Test link: 
 
 ## Questions
 Contact Info:

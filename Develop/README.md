@@ -1,35 +1,34 @@
-# ReadMe_generator
+# undefined
   
 ## Table of Contents
-* [Description](#description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [License](#license)
-* [Contributors](#contributors)
-* [Test](#test)
-* [Questions](#questions)
+* [Description] (#description)
+* [Installation] (#installation)
+* [Usage] (#usage)
+* [License] (#license)
+* [Contributors] (#contributors)
+* [Test] (#test)
+* [Questions] (#questions)
 
-## Description
+##Description
+Create a command line application that dynamically generates a README.md from a user`s input.
 
-3
+##Installation
+Clone from Github
 
-## Installation
-3
+##Usage
+Run Node and install packages
 
-## Usage
-3
+##License
+None
 
-## License
-MIT
+##Contributors
+No
 
-## Contributors
-no
+##Test
+Run Test
 
-## Test
-yes
-
-## Questions
+##Questions
 Contact Info:
 
-Github: [4] (https://github.com/krrodriguez26)
-Email: [4] (https://github.com/krrodriguez26)
+Github: [Krrodriguez26] (https://github.com/krrodriguez26)
+Email: [Katrrodriguez26@gmail.com] (https://github.com/krrodriguez26)
